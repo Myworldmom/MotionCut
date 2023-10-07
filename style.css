@@ -1,0 +1,137 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+h1 {
+   color: #DC143C;
+    font-size: 85px;
+      margin: 50px auto 0 auto;
+      font-family: 'Sacramento', cursive;
+line-height: 2;
+
+}
+h2 {
+    padding-bottom: 10px; 
+    color: #DC143C;
+    
+    font-weight: normal;
+   font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+}
+h3 {
+    color: #1B5B2D;
+    font-family: 'Montserrat', sans-serif;
+}
+p {
+    line-height: 2;
+}
+hr {
+    border: dotted #EAF6F6 6PX;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+a {
+   color: #DC143C;
+   font-family: 'Montserrat', sans-serif;
+   margin: 10px 20px;
+   text-decoration: none;
+}
+a:hover {
+   color:#EAF6F6;
+}
+.top-container {
+    background-color:#62CDFF;
+    position: relative;
+    padding-top: 100px;
+}
+.logo {
+    height: 160px;
+}
+.web {
+    width: 25%;
+    height: 180px;
+    float: left;
+    margin-right: 30px;
+}
+.programming {
+    width: 25%;
+    height: 180px;
+    float: right;
+    margin-left: 30px;
+}
+.middle-container {
+    margin: 100px 0;
+   
+}
+.bottom-container {
+    background-color: #62CDFF;
+    padding: 50px 0 20px;
+    
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left; 
+    
+}
+.pro {
+    text-decoration: underline;
+}
+.intro {
+    width: 30%;
+    margin: auto;
+}
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+.bottom-cloud {
+   position: absolute;
+   left: 250px; 
+   bottom: 300px;
+}
+.top-cloud {
+position: absolute;
+right: 300px;
+top: 40px;
+}
+.code-skill-description {
+    clear: left;
+
+}
+.btn {
+    <a href="#" class="CONTACT ME">white</a>
+
+ 
+	box-shadow: 0px 0px 0px 0px #3dc21b;
+	background-color:#44c767;
+	border-radius:8px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.btn:hover {
+	background-color:#5cbf2a;
+}
+.CONTACT ME:active {
+	position:relative;
+	top:1px;
+}
+
+        
